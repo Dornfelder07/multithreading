@@ -67,5 +67,4 @@ public class zad1_3 {
         System.err.println("Krawedzie w grafie (wspolb): " + wynik2);
         System.err.println("{czas(wspolbieznie)="+time2+"ns}");
     }
-
 }
